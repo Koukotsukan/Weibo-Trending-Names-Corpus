@@ -7,7 +7,7 @@
 
 ### HotNames_Gender.txt
 - 包含微博热搜中出现过的5483个姓名及根据姓名推测的性别
-- 每行一个姓名和性别，以```,```分割
+- 每行一个，姓名和性别(男/女/未知) 以```,```分割
 
 Collected by [@Koukotsukan](https://github.com/Koukotsukan)
 
