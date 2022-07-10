@@ -14,6 +14,6 @@ Collected by [@Koukotsukan](https://github.com/Koukotsukan)
 
 ---
 ### 语料库
-[中文人名语料库（Chinese-Names-Corpus）](https://github.com/wainshine/Chinese-Names-Corpus)
+[wainshine/Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus)
 
-[weibo-trending-hot-search](https://github.com/justjavac/weibo-trending-hot-search)
+[justjavac/weibo-trending-hot-search](https://github.com/justjavac/weibo-trending-hot-search)
