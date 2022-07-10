@@ -17,3 +17,5 @@ Collected by [@Koukotsukan](https://github.com/Koukotsukan)
 [wainshine/Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus)
 
 [justjavac/weibo-trending-hot-search](https://github.com/justjavac/weibo-trending-hot-search)
+
+[Koukotsukan/Chinese-and-Korean-Star-Name-in-Chinese-Corpus](https://github.com/Koukotsukan/Chinese-and-Korean-Star-Name-in-Chinese-Corpus)
